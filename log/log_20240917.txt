@@ -1,0 +1,51 @@
+
+[20240917] 'charmap' codec can't encode characters in position 123-124: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 174-175: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 113-114: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ecb' in position 173: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 174-175: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 123-124: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ec3' in position 117: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 174-175: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 174-175: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ea1' in position 107: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ed9' in position 57: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ea5' in position 160: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ec3' in position 199: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ec3' in position 168: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ed9' in position 1: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 174-175: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ec3' in position 126: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u01b0' in position 175: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 124-125: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 153-154: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ec3' in position 171: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u01b0' in position 175: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 187-189: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 174-175: character maps to <undefined>
+[20240917] Test Local Folder
+[20240917] Test Local Folder
+[20240917] 'charmap' codec can't encode characters in position 113-114: character maps to <undefined>
+[20240917] list.count() takes exactly one argument (0 given)
+[20240917] list.count() takes exactly one argument (0 given)
+[20240917] 'charmap' codec can't encode character '\u1ea1' in position 107: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ea1' in position 107: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ec3' in position 117: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ed9' in position 1: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ed9' in position 1: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ed9' in position 1: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ed9' in position 1: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u1ed9' in position 1: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 124-125: character maps to <undefined>
+[20240917] string indices must be integers, not 'str'
+[20240917] string indices must be integers, not 'str'
+[20240917] string indices must be integers, not 'str'
+[20240917] string indices must be integers, not 'str'
+[20240917] 'charmap' codec can't encode character '\u1ec3' in position 117: character maps to <undefined>
+[20240917] string indices must be integers, not 'str'
+[20240917] string indices must be integers, not 'str'
+[20240917] string indices must be integers, not 'str'
+[20240917] string indices must be integers, not 'str'
+[20240917] 'charmap' codec can't encode characters in position 113-114: character maps to <undefined>
+[20240917] 'charmap' codec can't encode character '\u01b0' in position 146: character maps to <undefined>
+[20240917] 'charmap' codec can't encode characters in position 123-124: character maps to <undefined>

@@ -1,0 +1,16 @@
+
+[20240904] 'charmap' codec can't encode character '\u1ed9' in position 9: character maps to <undefined>
+[20240904] 'charmap' codec can't encode character '\u1ed9' in position 57: character maps to <undefined>
+[20240904] 'charmap' codec can't encode characters in position 113-114: character maps to <undefined>
+[20240904] 'charmap' codec can't encode character '\u1ec3' in position 166: character maps to <undefined>
+[20240904] 'charmap' codec can't encode character '\u1ec3' in position 182: character maps to <undefined>
+[20240904] 'charmap' codec can't encode character '\u1ed9' in position 57: character maps to <undefined>
+[20240904] 'charmap' codec can't encode character '\u1ed9' in position 57: character maps to <undefined>
+[20240904] 'charmap' codec can't encode characters in position 113-114: character maps to <undefined>
+[20240904] 'charmap' codec can't encode character '\u1ea5' in position 160: character maps to <undefined>
+[20240904] 'charmap' codec can't encode character '\u1ec3' in position 166: character maps to <undefined>
+[20240904] 'charmap' codec can't encode character '\u1ec3' in position 171: character maps to <undefined>
+[20240904] 'charmap' codec can't encode characters in position 184-185: character maps to <undefined>
+[20240904] 'charmap' codec can't encode character '\u1ec3' in position 206: character maps to <undefined>
+[20240904] 'charmap' codec can't encode character '\u1ec3' in position 171: character maps to <undefined>
+[20240904] 'charmap' codec can't encode character '\u1ec3' in position 199: character maps to <undefined>

@@ -1,0 +1,2 @@
+pyinstaller --onefile -w --icon=code.ico --exclude matplotlib --exclude scipy --exclude pandas --exclude numpy.py --name="Code Record Library" main.py
+https://github.com/kentDevOps/Python_Pyside6.git

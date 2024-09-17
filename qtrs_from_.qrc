@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>img/kca.ico</file>
+    <file>img/kca.jpg</file>
+  </qresource>
+</RCC>
